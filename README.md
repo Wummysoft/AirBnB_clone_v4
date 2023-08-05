@@ -1,2 +1,3 @@
-AirBnB_clone_v4
-0x06. AirBnB clone - Web dynamic
+AirBnB clone - Web dynamic
+Collaborators: Wummy kaseem and Abdulbasit Abdulganiyu
+ALX SOFTWARE ENGINEERING PROGRAM
